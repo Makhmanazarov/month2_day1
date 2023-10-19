@@ -441,7 +441,7 @@ template {
 
 .hero_section {
   background-repeat: no-repeat;
-  background-image: url(../../img/Bitmap.png);
+  background-image: url(../img/Bitmap.png);
   background-size: cover;
   position: relative;
 }
@@ -460,7 +460,7 @@ template {
   width: 186px;
   height: 62px;
   background-repeat: no-repeat;
-  background-image: url(../../img/hero-bg-icon.svg);
+  background-image: url(../img/hero-bg-icon.svg);
   position: absolute;
   right: 0;
   bottom: 26%;
@@ -555,7 +555,7 @@ template {
   width: 96px;
   height: 96px;
   background-repeat: no-repeat;
-  background-image: url(../../img/service-icon.svg);
+  background-image: url(../img/service-icon.svg);
   position: absolute;
   left: 0;
   top: 0;
